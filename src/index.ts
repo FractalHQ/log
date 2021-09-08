@@ -13,7 +13,7 @@ export const log = (
   fontSize = 15,
   bgColor = "transparent"
 ): void => {
-  if (process?.env?.NODE_ENV && process?.env?.NODE_ENV != "development") return
+  if (!import.meta.env.DEV) return
 
   if (typeof msg == "string")
     return void console.log(

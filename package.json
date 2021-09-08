@@ -1,7 +1,8 @@
 {
   "name": "@fractalhq/log",
-  "version": "1.0.0",
+  "version": "1.0.0-0",
   "description": "a colorful template literal",
+  "private": false,
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
