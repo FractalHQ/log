@@ -1,6 +1,6 @@
 /**
  * Super duper simple logger
- * @param msg - A string to or object to log
+ * @param msg - A string or object to log
  * @param color - Any CSS color value ( named | hex | rgb | hsl )
  * @param bgColor - Same as {@link color} ⇧
  * @param cs - Optional additional CSS

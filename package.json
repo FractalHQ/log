@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fractal-hq/log.git"
+    "url": "git+https://github.com/fractalhq/log.git"
   },
   "keywords": [
     "logger"
@@ -28,9 +28,9 @@
   "author": "Fractal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fractal-hq/log/issues"
+    "url": "https://github.com/fractalhq/log/issues"
   },
-  "homepage": "https://github.com/fractal-hq/log#readme",
+  "homepage": "https://github.com/fractalhq/log#readme",
   "devDependencies": {
     "@types/node": "^16.7.13",
     "nodemon": "^2.0.12",
