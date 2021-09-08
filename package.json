@@ -1,5 +1,5 @@
 {
-  "name": "frac-log",
+  "name": "@fractalhq/log",
   "version": "1.0.0",
   "description": "a colorful template literal",
   "main": "dist/index.js",
