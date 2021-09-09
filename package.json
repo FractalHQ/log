@@ -1,6 +1,6 @@
 {
   "name": "@fractalhq/log",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "a colorful template literal",
   "private": false,
   "main": "dist/index.js",
@@ -20,7 +20,7 @@
   "scripts": {
     "dev": "run-p dev:*",
     "dev:ts": "tsup-node --watch src",
-    "dev:nodemon": "nodemon dev/index.js",
+    "dev:nodemon": "nodemon dev/index.mjs",
     "build": "tsup-node",
     "docs": "typedoc src/index.ts --theme minimal"
   },
